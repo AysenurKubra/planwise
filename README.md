@@ -19,7 +19,7 @@ To install and run Planwise locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/planwise.git
+    git clone https://github.com/AysenurKubra/planwise.git
     ```
 
 2. Install dependencies:
