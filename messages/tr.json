@@ -7,5 +7,7 @@
   },
   "dashboard": "Ana Sayfa",
   "calendar": "Takvim",
-  "planning": "Planlama"
+  "planning": "Planlama",
+    "googleSignIn": "Google ile Giriş Yap",
+  "signOut": "Çıkış Yap"
 }

@@ -7,6 +7,8 @@
   },
   "dashboard": "Dashboard",
   "calendar": "Calendar",
-  "planning": "Planning"
+  "planning": "Planning",
+    "googleSignIn": "Sign in with Google",
+  "signOut": "Sign out"
 
 }
