@@ -1,5 +1,11 @@
 {
   "HomePage": {
     "title": "Merhaba dünya!"
-  }
+  },
+  "auth": {
+    "googleSignIn": "Google ile Giriş Yap"
+  },
+  "dashboard": "Ana Sayfa",
+  "calendar": "Takvim",
+  "planning": "Planlama"
 }

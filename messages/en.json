@@ -1,5 +1,12 @@
 {
   "HomePage": {
     "title": "Hello world!"
-  }
+  },
+  "auth": {
+    "googleSignIn": "Sign In with Google"
+  },
+  "dashboard": "Dashboard",
+  "calendar": "Calendar",
+  "planning": "Planning"
+
 }
